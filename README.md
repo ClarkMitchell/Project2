@@ -1,11 +1,11 @@
-# Project2
+# Software Engineering Project
 
 Hotel Reservation Menu
+
 Author: Clark Mitchell
 
-I dont know how packages are managed in java yet but invoking
+```bash
+sh run.sh
+```
 
-	sh run.sh
-
-Will compile, run, and clean on a unix system.
-If you are on Windows, you're on your own. 
+Will make, compile, run, and clean on a unix system.
